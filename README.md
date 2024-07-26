@@ -1,4 +1,4 @@
-#ESEN
+# ESEN
 Un sistema gestor para facilitar la correcta manipulación de contratos de seguros por parte de los agentes de la Empresa de Seguros Nacionales de Cuba:
 >La aplicación actual solo permite el trabajo con contratos de vida individual, sin embargo una vez el sistema supere los días planeados para la prueba inicial, entonces será lanzada una aztualización que gestione el completo abanico de contratos ofrecidos por:
 > - ESEN

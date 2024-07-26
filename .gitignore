@@ -1,2 +1,7 @@
 esen/config.py
 *.pyc
+agentes/migrations/
+tomadores/migrations/
+contratos/migrations/
+seguros/migrations/
+!*/migrations/__init__.py
